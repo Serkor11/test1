@@ -5,5 +5,6 @@ package com.selenium.test.testng.tests;
  */
 public class RRR {
     public static void main (String args[]){
+        int proba = 0;
     }
 }
